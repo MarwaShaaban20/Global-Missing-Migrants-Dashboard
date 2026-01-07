@@ -1,6 +1,9 @@
 # Global Missing Migrants Dashboard (2014-2023)
 
 ## 📊 Overview
+*This project aims to shed light on the human cost of migration and advocate for more humane and safer migration policies worldwide.*
+<img width="1350" height="865" alt="Screenshot (362)" src="https://github.com/user-attachments/assets/b57d9b5a-ad33-44eb-b7f5-e870b0995f3c" /> 
+
 This interactive Power BI dashboard provides a comprehensive analysis of irregular migration incidents worldwide from 2014 to 2023. The dataset documents approximately **13,021 migration incidents** affecting nearly **143,000 migrants**, revealing the devastating human cost of unsafe migration routes.
 
 ## 🔗 Links
@@ -98,5 +101,4 @@ This dashboard emphasizes the urgent need for:
 
 ---
 
-*This project aims to shed light on the human cost of migration and advocate for more humane and safer migration policies worldwide.*
-<img width="1350" height="865" alt="Screenshot (362)" src="https://github.com/user-attachments/assets/b57d9b5a-ad33-44eb-b7f5-e870b0995f3c" />
+
